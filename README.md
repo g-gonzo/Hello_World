@@ -1,3 +1,3 @@
-# Hello_World
-First attempt at creating a repo!
-Yup making some changes to this file to see what happens.
+# Hello World
+My first attempt at creating a repo.
+
